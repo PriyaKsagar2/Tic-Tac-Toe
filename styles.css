@@ -15,7 +15,7 @@ body{
     margin-right: 5rem;
     background-color:  #beffe2;
     color: #03463c;
-    margin-top: 4rem;
+    margin-top: 4vmin;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,7 +56,7 @@ body{
 #resetButton{
     padding: 1rem;
     font-size: 1.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3vmin;
     background-color: #beffe2;
     color: #099883;
     border: none;
