@@ -71,8 +71,7 @@ body{
     color: #099883;
     border: none;
     font-weight: 700;
-    margin-bottom: 10vmin;
-    border-top: 8rem solid #6FEDB7;
+    border-radius: 1rem;
 }
 
 #msg{
@@ -90,16 +89,12 @@ body{
 }
 
 .msgContainer{
-    height: 50rem;
-    /* display: flex;
+    height: 30rem;
+    display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; */
+    flex-direction: column;
     gap: 4rem;
-    border-top: 8rem solid #6FEDB7;
-    border-bottom: 8rem solid #6FEDB7;
-    border-left: 2rem solid #6FEDB7;
-    border-right: 2rem solid #6FEDB7;
     
 }
 
